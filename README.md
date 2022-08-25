@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jesudeezy
 - 👀 I’m interested in Android development, photography, and being outside.
 - 🌱 I’m currently learning how to be a dad.
-- 💞️ I’m looking to collaborate on apps that tap into peoples' creative potential.
+- 💞️ I’m looking to collaborate on apps that tap into people's creative potential.
 - 📫 How to reach me www.anand-j.com
 
 <!---
